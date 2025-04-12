@@ -7,11 +7,20 @@
 
 // git push
 
-const a = 10
+const a = 10   // first commit
+ 
+// Second Commit
 
 const b = 20;
 
 function addNumber(a, b){
     let sum = a+b;
     return sum;
+}
+
+// Third Commit
+
+function productOfNumbers(a, b){
+    let product = a*b;
+    return product;
 }
