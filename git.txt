@@ -1,12 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-    <script src="script.js"></script>
-</body>
-</html>
+git init => version control starts
+
+git add . => staged
+
+git commit -m "message" => creates checkpoints
+
+git branch -M main => branch switch     
+
+
+git remote add origin repo URL
+
+git push -u origin main
+
+
+
+---------------------------------
+
+git clone repoURL => brings the whole code from the repo
+cd folder Name 
+
+git pull => brings the added code from the repo to your local repo
