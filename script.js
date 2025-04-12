@@ -8,3 +8,10 @@
 // git push
 
 const a = 10
+
+const b = 20;
+
+function addNumber(a, b){
+    let sum = a+b;
+    return sum;
+}
